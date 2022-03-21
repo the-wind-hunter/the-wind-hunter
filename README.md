@@ -1,6 +1,6 @@
 # 联系方式
 
-:mailbox_with_no_mail:	Email：[jaxc0nso1e@gmail.com](mailto:jaxc0nso1e@gmail.com)（安全考虑，非常用邮箱）
+:mailbox_with_no_mail:	Email：[jaxc0nso1e@gmail.com](mailto:jaxc0nso1e@gmail.com)
 
 # 个人信息
 
@@ -17,7 +17,7 @@
 
 # 工作经历
 
-## 暂时不便透露（ 2020年07月 ~ 至今）
+## TX（ 2020年07月 ~ 至今）
 
 ### 工作项目 
 
